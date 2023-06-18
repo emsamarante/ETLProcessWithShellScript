@@ -1,0 +1,41 @@
+ID|title|ratings|Prices|Type
+0|Tipping the Velvet|"One|"£53.74 |historical fiction 
+1|Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton|Three|£29.69 |historical fiction 
+2|A Flight of Arrows (The Pathfinders #2)|Five|£55.53 |historical fiction 
+3|The House by the Lake|One|£36.95 |historical fiction 
+4|Mrs. Houdini|Five|£30.25 |historical fiction 
+5|The Marriage of Opposites|Four|£28.08 |historical fiction 
+6|Glory over Everything: Beyond The Kitchen House|Three|£45.84 |historical fiction 
+7|Love, Lies and Spies|Two|£20.55 |historical fiction 
+8|A Paris Apartment|Four|£39.01 |historical fiction 
+9|Lilac Girls|Two|£17.28 |historical fiction 
+10|The Constant Princess (The Tudor Court #1)|Three|£16.62 |historical fiction 
+11|The Invention of Wings|One|£37.34 |historical fiction 
+12|World Without End (The Pillars of the Earth #2)|Four|£32.97 |historical fiction 
+13|The Passion of Dolssa|Five|£28.32 |historical fiction 
+14|Girl With a Pearl Earring|One|£26.77 |historical fiction 
+15|Voyager (Outlander #3)|Five|£21.07 |historical fiction 
+16|The Red Tent|Five|£35.66 |historical fiction 
+17|The Last Painting of Sara de Vos|Two|£55.55 |historical fiction 
+18|The Guernsey Literary and Potato Peel Pie Society|One|£49.53 |historical fiction 
+19|Girl in the Blue Coat|Two|£46.83 |historical fiction 
+20|Scott Pilgrim&#39;s Precious Little Life (Scott Pilgrim #1)|Five|£52.29 |sequential art 
+21|Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)|One|£16.28 |sequential art 
+22|This One Summer|Four|£19.49 |sequential art 
+23|The Nameless City (The Nameless City #1)|Four|£38.16 |sequential art 
+24|Saga, Volume 5 (Saga (Collected Editions) #5)|Two|£51.04 |sequential art 
+25|Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)|Three|£50.40 |sequential art 
+26|Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)|Five|£13.61 |sequential art 
+27|Pop Gun War, Volume 1: Gift|One|£18.97 |sequential art 
+28|Patience|Three|£10.16 |sequential art 
+29|Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)|Four|£15.44 |sequential art 
+30|orange: The Complete Collection 1 (orange: The Complete Collection #1)|One|£48.41 |sequential art 
+31|Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)|Two|£46.91 |sequential art 
+32|Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)|Three|£45.61 |sequential art 
+33|Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)|Two|£19.92 |sequential art 
+34|I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)|Two|£29.17 |sequential art 
+35|I am a Hero Omnibus Volume 1|Three|£54.63 |sequential art 
+36|Giant Days, Vol. 2 (Giant Days #5-8)|Two|£22.11 |sequential art 
+37|Danganronpa Volume 1|Four|£51.99 |sequential art 
+38|Codename Baboushka, Volume 1: The Conclave of Death|Four|£36.72 |sequential art 
+39|Camp Midnight|Four"|£17.08" |sequential art 
