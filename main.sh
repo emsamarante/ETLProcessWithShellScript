@@ -5,8 +5,8 @@
 # LinkedIn: https://www.linkedin.com/in/eduardo-amarante/
 # Portfolio: emsamarante.github.io
 #---------------------------------------------------------------------------------------------
-# Version: 1.0
-# Date: 2023/06/14
+# Version: 1.0 # Date: 2023/06/14
+# Version: 1.1 # Date: 2023/06/20 - Changing in command to install lynx
 #---------------------------------------------------------------------------------------------
 # Bash Version: 5.0.17(1)
 #---------------------------------------------------------------------------------------------
@@ -36,7 +36,7 @@ echo > "$ARQUIVO"
 #----------------------------------------------------------------------------------------------
 # Test
 #
-[ ! -x "$(which lynx)" ] && echo "Instaling dependencies..." && sudo apt install lynx 1> /dev/null 2>&1 && echo
+[ ! -x "$(which lynx)" ] && echo "Instaling dependencies..." && sudo apt install lynx && echo
 [ ! -x "$(which lynx)" ] && echo "Dependency doesn't exist." && exit 1
 [ -e "tipolivro.txt" ] && rm -rf "tipolivro.txt"
 [ ! -e "output" ] && mkdir "output"
